@@ -1,0 +1,13 @@
+OpenCl_tools/matmul.py
+.idea/
+*.pyc
+Irregular_LDPC_Decoding/WLAN/decoder_config_EbN0_gen_0.7_16cas.pkl
+<<<<<<< HEAD
+Irregular_LDPC_Decoding/WLAN/decoder_config_EbN0_gen_0.7_32no_match.pkl
+Irregular_LDPC_Decoding/WLAN/decoder_config_EbN0_gen_0.8_32no_match.pkl
+Irregular_LDPC_Decoding/WLAN/decoder_config_EbN0_gen_0.95_32no_match.pkl
+Irregular_LDPC_Decoding/WLAN/decoder_config_EbN0_gen_0.9_32no_match.pkl
+Irregular_LDPC_Decoding/WLAN/decoder_config_EbN0_gen_1.0_32no_match.pkl
+=======
+>>>>>>> 238ad5f6f845fcae926ed451b80743a0bf684ab1
+*.pkl
