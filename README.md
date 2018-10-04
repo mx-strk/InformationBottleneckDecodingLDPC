@@ -1,10 +1,9 @@
+
 # Decoding of LDPC Codes Using the Information Bottleneck Method in Python
 
 ### Introduction
 
 This source code is intended to reproduce the results published in [LB18,LBT+18] and [SLB18, Sta18]. In these works, it is explained how the information bottleneck method can be used to design decoders for regular and irregular LDPC codes.
-
-
 
 
 ### Requirements
@@ -38,6 +37,7 @@ To run the benchmark simulations just use `BER_simulation_OpenCL_min_sum.py` or 
 ###### Information bottleneck decoding
 To run BER simulations just use `BER_simulation_OpenCL_enc.py` in the respective folders. The ending "enc" indicates, that the transmission chain uses the appropriate LDPC encoder, not the all-zeros codeword is transmitted.  
 
+**Note:** Make sure that you have an IB decoder generated before running a simulation.
 
 
 A detailed documentation of all provided functions and a more complete test suite will be available soon.
