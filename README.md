@@ -14,7 +14,7 @@ This source code is intended to reproduce the results published in [LB18,LBT+18]
 4. Installation requires the following packages:
   * numpy
   * [IB_Base](https://collaborating.tuhh.de/cip3725/ib_base)
-  * [PyOpenCl.2018](https://collaborating.tuhh.de/cip3725/ib_base)
+  * [PyOpenCl.2018](https://documen.tician.de/pyopencl/misc.html)
   * mako
   * [progressbar](https://pypi.org/project/progressbar2/)
 
