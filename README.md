@@ -1,4 +1,3 @@
-
 # Decoding of LDPC Codes Using the Information Bottleneck Method in Python
 
 ### Introduction
@@ -50,10 +49,11 @@ The code is distributed under the MIT license. When using the code for your publ
 
 ### References
 
-[LB18] J. Lewandowsky and G. Bauch, “Information-Optimum LDPC Decoders Based on the Information Bottleneck Method,” IEEE Access, vol. 6, pp. 4054–4071, 2018. https://ieeexplore.ieee.org/document/8268118
+[SLB18] M. Stark, J. Lewandowsky, G. Bauch. "Information-Bottleneck Decoding of High-Rate Irregular LDPC Codes for Optical Communication using Message Alignment“. Applied Sciences. 2018; 8(10):1884. 
 
-[Sta18] M. Stark, Information optimum design of discrete LDPC decoders for irregular codes. Hamburg, 2018. Masterthesis, http://nbn-resolving.de/urn:nbn:de:gbv:830-88221767
+[SLB18a] M. Stark, J. Lewandowsky, and G. Bauch, “Information-Optimum LDPC Decoders with Message Alignment for Irregular Codes,” in 2018 IEEE Global Communications Conference (Globecom2018), Abu Dhabi, United Arab Emirates, 2018.
+
+[LB18] J. Lewandowsky and G. Bauch, “Information-Optimum LDPC Decoders Based on the Information Bottleneck Method,” IEEE Access, vol. 6, pp. 4054–4071, 2018. https://ieeexplore.ieee.org/document/8268118
 
 [LBT+18] J. Lewandowsky, G. Bauch, M. Tschauner, and P. Oppermann, “Design and Evaluation of Information Bottleneck LDPC Decoders for Software Defined Radios,” in Proc. 12th International Conference on Signal Processing and Communication Systems (ICSPCS), Australia, 2018.
 
-[SLB18] M. Stark, J. Lewandowsky, and G. Bauch, “Information-Optimum LDPC Decoders with Message Alignment for Irregular Codes,” in 2018 IEEE Global Communications Conference (Globecom2018), Abu Dhabi, United Arab Emirates, 2018.
