@@ -22,10 +22,10 @@ This source code is intended to reproduce the results published in [LB18,LBT+18]
 
 #### Generate a Decoder
 To construct a decoder, make use of the scripts `decoder_config_generation.py` in the different folders. Here, you can enter:
-- the maximum number of decoding iterations $`i_{max}`$
-- the cardinality of the exchanged messages $`|\mathcal{T}|`$  
-- the the degree distributions $`\mathbf{d}_c`$ and $`\mathbf{d}_v`$
-- the design-$`E_b/N_0`$ for which you want to construct the decoder
+- the maximum number of decoding iterations $i_{max}$
+- the cardinality of the exchanged messages $|\mathcal{T}|$  
+- the the degree distributions $\mathbf{d}_c$ and $\mathbf{d}_v$
+- the design-$E_b/N_0$ for which you want to construct the decoder
 
 #### Running a BER Simulation
 You can run either benchmark simulations for the belief-propagation decoding, belief-propagation decoding with an channel output quantizer or min-sum decoding. Please make sure that you have OpenCL set up correctly.
