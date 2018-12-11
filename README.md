@@ -46,6 +46,7 @@ A detailed documentation of all provided functions and a more complete test suit
 The code is distributed under the MIT license. When using the code for your research please cite our work.
 
 ### References
+[LBT+18] J. Lewandowsky, G. Bauch, M. Tschauner, and P. Oppermann, “Design and Evaluation of Information Bottleneck LDPC Decoders for Software Defined Radios,” in Proc. 12th International Conference on Signal Processing and Communication Systems (ICSPCS), Australia, 2018.
 
 [SLB18] M. Stark, J. Lewandowsky, G. Bauch. "Information-Bottleneck Decoding of High-Rate Irregular LDPC Codes for Optical Communication using Message Alignment“. Applied Sciences. 2018; 8(10):1884. 
 
@@ -53,5 +54,4 @@ The code is distributed under the MIT license. When using the code for your rese
 
 [LB18] J. Lewandowsky and G. Bauch, “Information-Optimum LDPC Decoders Based on the Information Bottleneck Method,” IEEE Access, vol. 6, pp. 4054–4071, 2018. https://ieeexplore.ieee.org/document/8268118
 
-[LBT+18] J. Lewandowsky, G. Bauch, M. Tschauner, and P. Oppermann, “Design and Evaluation of Information Bottleneck LDPC Decoders for Software Defined Radios,” in Proc. 12th International Conference on Signal Processing and Communication Systems (ICSPCS), Australia, 2018.
 
