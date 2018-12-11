@@ -43,9 +43,7 @@ A detailed documentation of all provided functions and a more complete test suit
 
 ### Citation
 
-The code is distributed under the MIT license. When using the code for your publication please cite our work properly:
-
-[SLB18] M. Stark, J. Lewandowsky, G. Bauch. "Information-Bottleneck Decoding of High-Rate Irregular LDPC Codes for Optical Communication using Message Alignment“. Applied Sciences. 2018; 8(10):1884. 
+The code is distributed under the MIT license. When using the code for your research please cite our work.
 
 ### References
 
